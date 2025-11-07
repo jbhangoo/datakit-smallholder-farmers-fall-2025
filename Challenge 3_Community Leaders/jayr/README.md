@@ -1,9 +1,19 @@
 # DataKind
-#DataKit Challenge - Producers Direct 
-#November 5th - December 5th, 2025
+### DataKit Challenge - Producers Direct 
 _datakit-smallholder-farmers-fall-2025_
 
-## Challenge 3: Identifying Community Leaders 
+November 5th - December 5th, 2025
+
+## Challenge 3: Identifying Community Leaders
+
+Progress is being logged in the Jupyter notebook `network.ipynb`
+
+Two approaches
+
+1. Create a graph of the network and use network analysis to identify the key nodes
+2. Evaluate statistical metrics of the data and correlation coefficients between users
+
+## Details
 
 Goal: Discover “leader” farmers who consistently provide valuable support to others.
 
